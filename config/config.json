@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sshin2",
+    "password": null,
+    "database": "ratemyprofessor",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "sshin2",
+    "password": null,
+    "database": "ratemyprofessor",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "sshin2",
+    "password": null,
+    "database": "ratemyprofessor",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
